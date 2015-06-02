@@ -9,93 +9,44 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
-
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-### Body text
-
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
-
-![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
-{: .image-right}
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-Syntax highlighting via Pygments
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-Non Pygments code example
-
-    <div id="awesome">
-        <p>This is great isn't it?</p>
-    </div>
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
+不邀自来……很多时候在知乎回答问题其实是为了缅怀一下过去……这篇显然是在回忆……不是在答题……  
+县级省重点，中考不提也罢。非学霸。现在一个211。  
+  
+想想自己的高中，大部分其实很荒废。  
+高一在重点班。看小说，看小说，看小说，发短信，听歌，睡觉，走神，抄作业。初中不干正事的时候还练练字，高一大概是彻底荒废的。爸妈表示对我的成绩不忍直视把我扔到
+学校住校眼不见心不烦。我在24小时被学霸包围的日子里思考人生，写过几篇酸腐的日志，也在考场上写过几篇55+的作文。  
+然后我就在分班时被重点班踢了出去……  
+  
+人的精力能有多少呢。我不知道。  
+被踢出去以后的一个月基本没见人……因为很丢人。学校28个班2000多号人，抬头不见低头见的都是熟人，何况已经在初中部待过三年有很多熟悉的老师……比如有的班的
+老师会在班会上拿我举例子当反面典型。  
+想来那一个月里的每一天都是人生最用功努力的时候。你要问一天能做什么？我现在大概很难讲出量化的结果。总之结果就是在被重点班踢出去的第一次大考里我考了年级27名
+。我分班之前大概在年级150开外吧……而且是稳定的递减。所以从150开外到30名以内需要做什么呢？我在一个月实现了，除以30应该就是题主要的结果。  
+然而我显然没有将名次的进步坚持下去……  
+在后面的日子里一直到升入高三，我的状态不温不火。比高一刚开学强了很多，名次成绩也比以前好，但再也没有如那次“雪耻”时考的那么好。  
+如果说那些日子里有什么事情印象比较深的话，还能记清楚的有三件事。  
+第一是关于数学的。记得刚学数列那块儿的时候，总之学得不好，好多题不会做。高一暑假吧，有大概一周的时间，每天做题到晚上三四点，不觉得疲劳，有没有觉得充实忘记了
+，总之 **没有觉得是负担** 。  
+第二是关于化学的。高二学有机的时候。我的化学成绩向来不好，属于没有入门的那种，初中50分的化学考过20多分的成绩……我又是那种放学从来不会多留一秒钟的人，准
+确来说是放学前二十分钟就开始翘首等待的人。有两周左右的时间，我每天待到教学楼断电……然而我并不是一个人，当我那么做的时候才发现，每天，每个班，都有许多人在这
+么做，都有许多人在这样努力……抛开效率问题不谈，我真的很敬佩他们。  
+第三是关于英语的。高二临近高三。记得很清楚，夏天，炎热，烦躁。学不进去，可是不学习又很有负罪感。于是我选择了做自己最拿手的科目——英语。你要问能做什么？能做
+多少？在这里答案是明确的，不听听力，不写作文，35分钟一整套试卷，5分钟对答案。我做了30套。30套的数目看上去并不多，但是相信我，任何一个科目你能如这般训
+练过自己，都会踏上一个新的台阶新的高度。然而我并不推荐这种方法，因为效率有点低，而且并不通用，只能拿来学自己拿手的科目，但是 **
+往往你拿手的科目并不需要这样的训练，可是你不拿手的科目做起来又太过不顺畅 ** ——这是矛盾的也是现实的。事实证明花太多时间在自己拿手的科目上并没有什么卵用
+，我高一英语就能考将近140，高三最好成绩考差不多145，然而高考的时候依然只考了136。或许我当时只是在享受每次对答案全对或是错很少的感觉——因为 **
+做对总是很爽的， _然而有用的是那些错题_ ，你会的，你做对的东西，重复训练的收益是很小的 **。但是这给我们提供另一种思路，就是** 换脑 **
+。当你学不进去一门科目的时候，也没必要强求，做一些自己喜欢的事情或者拿手的科目，放松心情。但是不要像我这么极端就好。  
+  
+然后就来到了高三……  
+关于高三，可供回忆的太多，也太少。因为确实是自己单纯努力拼搏过的时候，但是置身在那个大环境里，自我的东西就变得很少，关于自己的特别回忆也会变得稀薄。  
+在那种环境里，大家都很努力。学生在拼命，拼命地学习；老师也在拼命，拼命地压榨学生的时间。在这种环境里，放松反而显得更难，因为你找不到和你一起放松的人……或者
+你的放松给你负罪感。  
+所以关于高三就不说太多了，除了那些太过于不开窍和厚颜无耻的人，我并不担心大多数人在高三的用功程度。需要提醒的一点是，注意自己的 **周期**
+。每个人都有自己的高潮和低谷，这是正常的，也无需担心。 **学会面对自己不好的状态，学会放松，学会正确对待，学会调节自己，这才是高三最难的部分** 。  
+  
+总结就是……我不是学霸。这是一篇没有干货的回忆。但我还是希望每个看到这篇回答的高中生都珍惜现在的时光。  
+觉得时间不够用是好事情…… ** 你可能需要学习的是更恰当地管理自己，而不是没有目标地去来回乱撞。和别人比是正常的，但是每个人有自己的方法习惯，每个人效率也
+不一样——承认别人比自己强在中二的年纪似乎太困难——那就做一切可能的事情让自己比他们更强吧！少年！ **  
+  
+以上。
