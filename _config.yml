@@ -11,7 +11,7 @@ url:
 owner:
   name:           段晓晨
   avatar:         avatar.jpg
-  bio:            "Talk less, Code more.Zhihu less, Read more."
+  bio:            "Talk less, Code more."
   email:          shmilydxc@vip.qq.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
@@ -23,7 +23,7 @@ owner:
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    
 
 # Background image to be tiled on all pages
 background: 
